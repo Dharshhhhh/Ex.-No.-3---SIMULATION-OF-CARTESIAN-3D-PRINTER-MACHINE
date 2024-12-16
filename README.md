@@ -1,5 +1,5 @@
 # Ex. No.3 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 20.11.2023
+### DATE: 
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -52,10 +52,11 @@
 ![image](https://github.com/Raji1009/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/89059861/ea6d2a04-f1c0-41b0-a9c1-25e09a8eccc5)
 ![image](https://github.com/Raji1009/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/89059861/4a706f8a-74c6-40ce-9d00-28b47dd13d7a)
 ![image](https://github.com/Raji1009/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/89059861/046b20d9-22ab-4779-b66e-cfaf4b3bc896)
+![Screenshot 2024-12-16 095436](https://github.com/user-attachments/assets/a22b7023-3477-4e09-8d9a-3dfbed0db2ee)
 
 
-### Name: Rajalakshmi R
-### Register Number: 23013958
+### Name: Dharshini R
+### Register Number: 24006560
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
